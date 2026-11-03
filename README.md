@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8CCCF&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Fakhri+Akmaludin;Mahasiswa+D4+Teknik+Informatika;IoT+%26+Software+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**riii9/riii9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa **D4 Teknik Informatika di Universitas Airlangga** yang berfokus pada pengembangan perangkat lunak, sistem *embedded* (IoT), dan solusi berbasis web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya
+- 🎓 **Pendidikan:** D4 Teknik Informatika, Universitas Airlangga (UNAIR)
+- 💻 **Fokus saat ini:** Pengembangan IoT, algoritma & struktur data, serta aplikasi web
+- 🏆 **Minat:** Smart Systems, Automation, & Software Architecture
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,arduino,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+---
